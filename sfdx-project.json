@@ -1,0 +1,13 @@
+{
+  "schema": "https://developer.salesforce.com/media/schemas/sfdx-project.schema.json",
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "SFRepo",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
